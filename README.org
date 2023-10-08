@@ -1,0 +1,5 @@
+* Instruction
+Make sure that =nix= is installed locally. To run this program, simply execute
+#+begin_src sh
+  nix run github:doernermannT/hello-python
+#+end_src
